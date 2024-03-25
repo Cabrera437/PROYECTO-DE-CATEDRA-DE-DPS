@@ -66,7 +66,7 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra apliacion web es
 
 <h2>📕 Licencias</h2>
 
-![by-nc-nd](https://github.com/DiegoIsma/My/blob/main/Captura%20de%20pantalla%202024-03-24%20175408.png)
+![by-nc-nd](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/blob/master/Licencia.png)
 
 
 
