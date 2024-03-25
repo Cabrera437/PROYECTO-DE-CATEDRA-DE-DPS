@@ -61,7 +61,7 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra apliacion web es
 <h2>:open_file_folder: Otros Archivos importantes </h2>
 
 > Enlace de lo Diseño de los Mockup's 🎨<br>
-
+![Muckup's](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/blob/master/Licencia.png)
 > Pefil del proyecto PDF 📖
 
 <h2>📕 Licencias</h2>
