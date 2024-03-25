@@ -71,6 +71,14 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra apliacion web es
 
 ![by-nc-nd](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/blob/master/Licencia.png)
 
+> [!CAUTION]
+>SnapGallery está bajo la licencia CC BY-NC-SA 4.0 DEED
+
+
+> [!CAUTION]
+> Recuerda siempre hacer referencia a los creadores de este proyecto.
+
+
 
 
 
