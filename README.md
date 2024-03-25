@@ -4,7 +4,7 @@
 Bienvenido al respositorio de desarrollo de SnapGallery nuestra apliacion web esta dirijida a todo tipo de usuario para artistas,programadores,diseñadores que bsucan imagenes para inspirace o utilizar para sus proyectos  
 
 > [!IMPORTANT]
-> Aún SnapGallery continua en desarrollo, espera para su publicación y nuevas noticas
+>  SnapGallery Aún continua en desarrollo, espera  publicación y nuevas noticas
 
 <h2>:wave: Equipo de SnapGallery</h2>
 <div style={padding: 10px}>
