@@ -61,7 +61,7 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra apliacion web es
 <h2>:open_file_folder: Otros Archivos importantes </h2>
 
 > Enlace de lo Diseño de los Mockup's 🎨<br>
-![Muckup's](https://www.figma.com/file/x61WD2iJ0Xgv6paAFdEGny/interfaces-SnapGallery?type=design&node-id=0%3A1&mode=design&t=bfXOj73YNtXF5bE8-1)
+[Muckup's](https://www.figma.com/file/x61WD2iJ0Xgv6paAFdEGny/interfaces-SnapGallery?type=design&node-id=0%3A1&mode=design&t=bfXOj73YNtXF5bE8-1)
 > Pefil del proyecto PDF 📖
 
 <h2>📕 Licencias</h2>
