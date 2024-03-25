@@ -66,7 +66,7 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra apliacion web es
 
 > [Enlace a Notion 📗📝](https://www.notion.so/invite/4beb6c5562d5dc1b4e803922212a6329da366cf1) 
 
-> Pefil del proyecto PDF 📖
+> [Pefil del proyecto PDF 📖](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/blob/master/Poyecto_de_catedra_fase1_DPS.pdf)
 
 
 <h2>📕 Licencias</h2>
