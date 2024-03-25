@@ -1,6 +1,6 @@
 
 
-#   SnapGalle 
+#   SnapGallery
 Bienvenido al respositorio de desarrollo de SnapGallery nuestra apliacion web esta dirijida a todo tipo de usuario para artistas,programadores,diseñadores que bsucan imagenes para inspirace o utilizar para sus proyectos  
 
 > [!IMPORTANT]
