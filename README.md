@@ -62,7 +62,7 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra apliacion web es
 
 >[Enlace de lo Diseño de los Muckup's 🎨](https://www.figma.com/file/x61WD2iJ0Xgv6paAFdEGny/interfaces-SnapGallery?type=design&node-id=0%3A1&mode=design&t=bfXOj73YNtXF5bE8-1)
 
-> [Enlace de lo Diseño de los Muckup's 📗📝](https://www.notion.so/invite/4beb6c5562d5dc1b4e803922212a6329da366cf1) 
+> [Enlace a Notion 📗📝](https://www.notion.so/invite/4beb6c5562d5dc1b4e803922212a6329da366cf1) 
 
 > Pefil del proyecto PDF 📖
 
