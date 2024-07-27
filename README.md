@@ -50,7 +50,7 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra aplicaciòn web 
 
   <td>
 
-![64b524021adc5990918944](https://th.bing.com/th/id/OIP.2oH1Sm-S-59MmVJInvd8PgHaFu?rs=1&pid=ImgDetMain)    
+![64b524021adc5990918944](https://miro.medium.com/v2/resize:fit:590/1*c9C8SXCNIETPAiyrF0PmmA.png)    
   </td>
   </tr>
   <tr align="center">
