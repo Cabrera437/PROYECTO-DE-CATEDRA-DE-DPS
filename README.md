@@ -44,7 +44,7 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra aplicaciòn web 
 
   <td>
 
-  ![React](https://jslib.dev/wp-content/uploads/2022/03/Reactlogo-1024x683.jpg)
+  ![React](https://jslib.dev/wp-content/uploads/2022/03/Reactlogo-1024x683.jp)
   
   </td>
 
@@ -55,8 +55,7 @@ Bienvenido al respositorio de desarrollo de SnapGallery nuestra aplicaciòn web 
   </tr>
   <tr align="center">
     <td>Laravel </td>
-    <td>React </td>
-    <td>Docker</td>
+    <td>kotline</td>
   </tr>
 </table>
 
